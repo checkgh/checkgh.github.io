@@ -1,0 +1,23 @@
+OSI MODEL
+OSI is an abbreviation of open  system interconnection.This model defines a networking framework to implement protocols in 7 layers.This model is just to give a conceptual framework of how networking works so that we can understand it better.international standard organization developed the OSI model of which  it's divided into 7 layers.ie; layer 7 ; Application
+                           Layer 6; presentation
+                           Layer 5; session
+                           Layer 4; transport
+                            Layer 3; network
+                           Layer 2; data link
+                            Layer 1; physical
+LAYER 7
+Everything in this layer is application specified .  It is the layer that is the closest to the end user eg;web browser (safari, chrome, Firefox)etc                                               
+
+LAYER 6
+This layer provides independence from difference in data representation eg; encryption.it works to transform data into the form that the application layer can accept.eg TIFF,GIF,PICT ect. 
+LAYER 5
+The session sets up coordinate and terminates conversations ,exchanges and dialogues between the application at each end.eg; SQL,RPC etc.
+LAYER 4
+It provides transparent transfer of data between end system or host  and it's responsible for end to end error recovery and flow control .eg;SPX,TCP, FDDI.
+LAYER 3
+It helps in switching snd routing techologies work . It includes routing through different routers.Routers at this layer helps do them efficiently.
+LAYER 2
+Data packets are encoded and decoded into bits .eg;PPP,FDDI etc.
+LAYER 1
+It provides the hardware means of sending and receiving data and carrier including defining cables, cards,and physical aspects eg;FDDI,B835,v.25 etc.
