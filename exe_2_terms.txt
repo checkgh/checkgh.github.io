@@ -1,0 +1,5 @@
+Network topology
+It is the arrangement of the element (node etc) of a computer.eg:bus topology,ring topology etc.
+Node
+Is a system or device that is connected to a network.eg switch,hub, bridge etc.
+ 
