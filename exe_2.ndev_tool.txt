@@ -6,7 +6,9 @@ Hub
 
 
 NETWORK DEVICES
-TCP
-IP
-FTP
-ARP.
+Ping
+IDN
+Tracet
+Express
+
+
